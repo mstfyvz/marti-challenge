@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- The launcher theme. It sets the main window background to the splash_screen_bg drawable -->
+    <!--<style name="AppTheme.Launcher">
+        <item name="android:windowBackground"></item>
+    </style>-->
+
+    <!-- Dialog Style -->
+    <style name="DialogStyle" parent="Theme.AppCompat.Dialog.Alert">
+        <!--<item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:padding">@dimen/size_full</item>-->
+    </style>
+
+</resources>

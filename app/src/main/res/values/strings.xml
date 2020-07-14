@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Martı Challenge</string>
+
+    <string name="error_network">İnternet bağlantı hatası aldınız.</string>
+    <string name="error_timeout">İstek zaman aşımına uğradı.</string>
+    <string name="error_generic">Bir hata oluştu. Lütfen tekrar deneyiniz.</string>
+    <string name="is_not_empty_search">Arama alanına bir şeyler yazın!</string>
+
+    <string name="input_type">textquery</string>
+
+    <string name="hint_search">Arama</string>
+    <string name="ok">Tamam</string>
+    <string name="fields">formatted_address,name,geometry</string>
+    <string name="search_is_empty">Arama bulunamadı</string>
+    <string name="title_details">Location Details</string>
+    <string name="label_location_address">Location Address:</string>
+    <string name="label_location_coordinates">"Location Address Coordinates: "</string>
+
+</resources>
